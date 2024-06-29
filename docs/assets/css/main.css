@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2F402D;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+		background-image: linear-gradient(to top, rgba(47, 64, 45, 0.8), rgba(47, 64, 45, 0.8)), url("../../images/bg.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -3076,7 +3076,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: rgba(54,74,56, 0.95);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3258,7 +3258,7 @@ input, select, textarea {
 		-ms-user-select: none;
 		user-select: none;
 		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-		background: rgba(46, 49, 65, 0.8);
+		background: rgba(47, 64, 45, 0.8);
 		cursor: default;
 		height: 100%;
 		left: 0;
@@ -3466,7 +3466,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2F402D;
-				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+				background-image: linear-gradient(to top, rgba(47, 64, 45, 0.8), rgba(47, 64, 45, 0.8)), url("../../images/bg.jpg");
 				background-size: auto,
  cover;
 				background-position: center,
@@ -3578,7 +3578,7 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2F402D;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(47, 64, 45, 0.8), rgba(47, 64, 45, 0.8)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
@@ -4071,7 +4071,7 @@ input, select, textarea {
 
 		#footer {
 			background-color: #2F402D;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(47, 64, 45, 0.8), rgba(47, 64, 45, 0.8)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
 			background-position: center,
